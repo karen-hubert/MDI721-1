@@ -17,4 +17,3 @@ Plan prévisionnel des sessions
 - **Session 6** : Visualisation et Time series (12/12)
 - **Examen** : à définir
 
-La session a démarré
